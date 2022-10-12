@@ -5,4 +5,4 @@ podendo ser de empresas, redes sociais ou sites, no quesito de rede social  A fe
 
 
 
-Referencia:https://github.com/fernandoleonid/speed-code-css-html creditos ao fernando que me ajudou bastante no projeto
+Referencia:https://github.com/fernandoleonid/speed-code-css-html creditos ao fernando e suas aulas que me ajudaram bastante no projeto
